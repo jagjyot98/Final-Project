@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Recipes Bank</string>
+    <string name="ingredients_quantity"><![CDATA[Ingredients & Quantity]]></string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="approx_time_required_min">Approx Time Required (Min)</string>
+    <string name="recipe_steps_and_procedure">Recipe Steps and Procedure</string>
+    <string name="add_recipes">Add Recipes...</string>
+    <string name="btnSave">Save</string>
+    <string name="my_recipes">My Recipes Bank</string>
+    <string name="view_recipes">View Recipes...</string>
+    <string name="add_recipe">Add Recipe...</string>
+</resources>
